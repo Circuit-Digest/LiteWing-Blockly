@@ -1,21 +1,12 @@
-```text
-  __   _ __     _       ___             ____  __           __   __     
- / /  (_) /____| |     / (_)___  ____ _/ __ )/ /___  _____/ /__/ /_  __
-/ /  / / __/ _ \ | /| / / / __ \/ __ `/ __  / / __ \/ ___/ //_/ / / / /
-/ /__/ / /_/  __/ |/ |/ / / / / / /_/ / /_/ / / /_/ / /__/ ,< / / /_/ / 
-/_____/_/\__/\___/|__/|__/_/_/ /_/\__, /_____/_/\____/\___/_/|_/_/\__, /  
-                                 /____/                          /____/   
-```
-
 # LiteWing Blockly
 
 [![Latest Release](https://img.shields.io/github/v/release/Circuit-Digest/LiteWing-Blockly?color=orange&label=Latest%20Release)](https://github.com/Circuit-Digest/LiteWing-Blockly/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Circuit-Digest/LiteWing-Blockly/total?color=blue&label=Downloads)](https://github.com/Circuit-Digest/LiteWing-Blockly/releases)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-0078D6?logo=windows)](https://github.com/Circuit-Digest/LiteWing-Blockly/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20%2864--bit%29-0078D6?logo=windows)](https://github.com/Circuit-Digest/LiteWing-Blockly/releases/latest)
 [![Documentation](https://img.shields.io/badge/Wiki-Circuit%20Digest%20Wiki-f59e0b)](https://circuitdigest.com/wiki/litewing-blockly-wiki-page/#Introduction)
 [![License: Freeware](https://img.shields.io/badge/License-Freeware%20%2F%20EULA-blue.svg)](LICENSE)
 
-LiteWing Blockly is the official visual block-based programming environment for the **LiteWing Drone**. It allows learners, hobbyists, and researchers to program autonomous drone flights using intuitive drag-and-drop blocks while simultaneously generating clean, real-time Python code compatible with the official `litewing` library.
+LiteWing Blockly is the visual block-based programming environment for the **LiteWing Drone**. It allows learners to program autonomous drone flights using intuitive drag-and-drop blocks while simultaneously generating clean, real-time Python code compatible with the official `litewing` library.
 
 This repository serves as the official distribution channel for pre-compiled, standalone release binaries.
 
@@ -27,8 +18,8 @@ The application is distributed as a portable standalone Windows executable. It r
 
 | Package | Format | Direct Download | SHA-256 Checksum |
 | :--- | :---: | :---: | :--- |
-| **LiteWing Blockly Standalone** | Portable `.exe` | [**Download .exe**](https://github.com/Circuit-Digest/LiteWing-Blockly/releases/latest/download/LiteWingBlockly.exe) | `c30f2d18a8fecddb04adb662eb707238ba26850ac4e39f67e439b3da79292498` |
-| **LiteWing Blockly Bundle** | Compressed `.zip` | [**Download .zip**](https://github.com/Circuit-Digest/LiteWing-Blockly/releases/latest/download/LiteWingBlockly-v1.0.0-windows-x64.zip) | `26bdc298f05b2374ea352ee69f0e275ef18fbda52c3745160ea4e8436776f61f` |
+| **LiteWing Blockly Standalone** | Portable `.exe` | [**Download**](https://github.com/Circuit-Digest/LiteWing-Blockly/releases/latest/download/LiteWingBlockly.exe) | `c30f2d18a8fecddb04adb662eb707238ba26850ac4e39f67e439b3da79292498` |
+| **LiteWing Blockly Bundle** | Compressed `.zip` | [**Download**](https://github.com/Circuit-Digest/LiteWing-Blockly/releases/latest/download/LiteWingBlockly-v1.0.0-windows-x64.zip) | `26bdc298f05b2374ea352ee69f0e275ef18fbda52c3745160ea4e8436776f61f` |
 
 > [!TIP]
 > All versioned releases, release notes, changelogs, and asset downloads are available on the [**GitHub Releases Page**](https://github.com/Circuit-Digest/LiteWing-Blockly/releases).
@@ -37,7 +28,7 @@ The application is distributed as a portable standalone Windows executable. It r
 
 ## Official Documentation and Wiki
 
-For step-by-step connection tutorials, block reference catalogs, sensor telemetry guides, and flight safety rules, visit the official documentation:
+For step-by-step connection tutorials, block reference catalogs, and sensor telemetry guides, visit the official documentation:
 
 **[LiteWing Blockly Wiki Page](https://circuitdigest.com/wiki/litewing-blockly-wiki-page/#Introduction)**
 
@@ -49,16 +40,6 @@ For step-by-step connection tutorials, block reference catalogs, sensor telemetr
 - **Wi-Fi Connectivity:** Computer Wi-Fi adapter to connect to the LiteWing drone access point (`LiteWing_XXXXXXXXXXXX`)
 - **Hardware:** LiteWing Drone with Drone Positioning Module (Time of Flight height sensor & Optical Flow sensor) installed
 - **Firmware:** LiteWing firmware **v3.0.0 or later**
-
----
-
-## Quick Start Guide
-
-1. **Power on the Drone:** Place LiteWing on a flat, well-lit surface and power it on. Wait for the Drone Positioning Module LED to turn solid green.
-2. **Connect to Wi-Fi:** Open Windows Wi-Fi settings and connect to your drone's access point (e.g. `LiteWing_F412FAB64AB9`).
-3. **Launch LiteWing Blockly:** Run `LiteWingBlockly.exe`.
-4. **Connect in App:** Ensure the drone IP is set to `192.168.43.42` in the bottom status bar and click **Connect**.
-5. **Program & Fly:** Drag blocks from the toolbox (e.g., `when run clicked` &rarr; `takeoff` &rarr; `fly forward` &rarr; `land`), and click **Run code** to begin autonomous flight!
 
 ---
 
