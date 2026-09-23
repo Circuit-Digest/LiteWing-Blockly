@@ -1,10 +1,10 @@
 ```text
-██╗      ██╗ ████████╗ ███████╗ ██╗    ██╗ ██╗ ███╗   ██╗  ██████╗     ██████╗  ██╗       ██████╗   ██████╗ ██╗  ██╗ ██╗      ██╗   ██╗
-██║      ██║ ╚══██╔══╝ ██╔════╝ ██║    ██║ ██║ ████╗  ██║ ██╔════╝     ██╔══██╗ ██║      ██╔═══██╗ ██╔════╝ ██║ ██╔╝ ██║      ╚██╗ ██╔╝
-██║      ██║    ██║    █████╗   ██║ █╗ ██║ ██║ ██╔██╗ ██║ ██║  ███╗    ██████╔╝ ██║      ██║   ██║ ██║      █████═╝  ██║       ╚████╔╝ 
-██║      ██║    ██║    ██╔══╝   ██║███╗██║ ██║ ██║╚██╗██║ ██║   ██║    ██╔══██╗ ██║      ██║   ██║ ██║      ██╔═██╗  ██║        ╚██╔╝  
-███████╗ ██║    ██║    ███████╗ ╚███╔███╔╝ ██║ ██║ ╚████║ ╚██████╔╝    ██████╔╝ ███████╗ ╚██████╔╝ ╚██████╗ ██║ ╚██╗ ███████╗    ██║   
-╚══════╝ ╚═╝    ╚═╝    ╚══════╝  ╚══╝╚══╝  ╚═╝ ╚═╝  ╚═══╝  ╚═════╝     ╚═════╝  ╚══════╝  ╚═════╝   ╚═════╝ ╚═╝  ╚═╝ ╚══════╝    ╚═╝   
+  __   _ __     _       ___             ____  __           __   __     
+ / /  (_) /____| |     / (_)___  ____ _/ __ )/ /___  _____/ /__/ /_  __
+/ /  / / __/ _ \ | /| / / / __ \/ __ `/ __  / / __ \/ ___/ //_/ / / / /
+/ /__/ / /_/  __/ |/ |/ / / / / / /_/ / /_/ / / /_/ / /__/ ,< / / /_/ / 
+/_____/_/\__/\___/|__/|__/_/_/ /_/\__, /_____/_/\____/\___/_/|_/_/\__, /  
+                                 /____/                          /____/   
 ```
 
 # LiteWing Blockly
@@ -21,29 +21,29 @@ This repository serves as the official distribution channel for pre-compiled, st
 
 ---
 
-## 🚀 Download Official Release
+## Download Official Release
 
 The application is distributed as a portable standalone Windows executable. It requires no installation of Python, Node.js, or external development dependencies.
 
 | Package | Format | Direct Download | SHA-256 Checksum |
 | :--- | :---: | :---: | :--- |
-| **LiteWing Blockly Standalone** | Portable `.exe` | [⬇ **Download .exe**](https://github.com/Circuit-Digest/LiteWing-Blockly/releases/latest/download/LiteWingBlockly.exe) | `c30f2d18a8fecddb04adb662eb707238ba26850ac4e39f67e439b3da79292498` |
-| **LiteWing Blockly Bundle** | Compressed `.zip` | [⬇ **Download .zip**](https://github.com/Circuit-Digest/LiteWing-Blockly/releases/latest/download/LiteWingBlockly-v1.0.0-windows-x64.zip) | `26bdc298f05b2374ea352ee69f0e275ef18fbda52c3745160ea4e8436776f61f` |
+| **LiteWing Blockly Standalone** | Portable `.exe` | [**Download .exe**](https://github.com/Circuit-Digest/LiteWing-Blockly/releases/latest/download/LiteWingBlockly.exe) | `c30f2d18a8fecddb04adb662eb707238ba26850ac4e39f67e439b3da79292498` |
+| **LiteWing Blockly Bundle** | Compressed `.zip` | [**Download .zip**](https://github.com/Circuit-Digest/LiteWing-Blockly/releases/latest/download/LiteWingBlockly-v1.0.0-windows-x64.zip) | `26bdc298f05b2374ea352ee69f0e275ef18fbda52c3745160ea4e8436776f61f` |
 
 > [!TIP]
 > All versioned releases, release notes, changelogs, and asset downloads are available on the [**GitHub Releases Page**](https://github.com/Circuit-Digest/LiteWing-Blockly/releases).
 
 ---
 
-## 📖 Official Documentation & Wiki
+## Official Documentation and Wiki
 
 For step-by-step connection tutorials, block reference catalogs, sensor telemetry guides, and flight safety rules, visit the official documentation:
 
-👉 **[LiteWing Blockly Wiki Page](https://circuitdigest.com/wiki/litewing-blockly-wiki-page/#Introduction)**
+**[LiteWing Blockly Wiki Page](https://circuitdigest.com/wiki/litewing-blockly-wiki-page/#Introduction)**
 
 ---
 
-## ⚙️ System Requirements
+## System Requirements
 
 - **Operating System:** Windows 10 or Windows 11 (64-bit)
 - **Wi-Fi Connectivity:** Computer Wi-Fi adapter to connect to the LiteWing drone access point (`LiteWing_XXXXXXXXXXXX`)
@@ -52,17 +52,17 @@ For step-by-step connection tutorials, block reference catalogs, sensor telemetr
 
 ---
 
-## 🛠️ Quick Start Guide
+## Quick Start Guide
 
 1. **Power on the Drone:** Place LiteWing on a flat, well-lit surface and power it on. Wait for the Drone Positioning Module LED to turn solid green.
 2. **Connect to Wi-Fi:** Open Windows Wi-Fi settings and connect to your drone's access point (e.g. `LiteWing_F412FAB64AB9`).
 3. **Launch LiteWing Blockly:** Run `LiteWingBlockly.exe`.
 4. **Connect in App:** Ensure the drone IP is set to `192.168.43.42` in the bottom status bar and click **Connect**.
-5. **Program & Fly:** Drag blocks from the toolbox (e.g., `when run clicked` &rarr; `takeoff` &rarr; `fly forward` &rarr; `land`), and click **▶ Run code** to begin autonomous flight!
+5. **Program & Fly:** Drag blocks from the toolbox (e.g., `when run clicked` &rarr; `takeoff` &rarr; `fly forward` &rarr; `land`), and click **Run code** to begin autonomous flight!
 
 ---
 
-## 🔗 Related Repositories
+## Related Repositories
 
 - **LiteWing Hardware & Firmware:** [Circuit-Digest/LiteWing](https://github.com/Circuit-Digest/LiteWing.git)
 - **LiteWing Python Library:** [Circuit-Digest/LiteWing-Library](https://github.com/Circuit-Digest/LiteWing-Library.git)
@@ -70,9 +70,9 @@ For step-by-step connection tutorials, block reference catalogs, sensor telemetr
 
 ---
 
-## 📄 License & Terms of Use
+## License and Terms of Use
 
 LiteWing Blockly is distributed free of charge as a pre-compiled binary executable for educational, personal, and research drone operations. See the [LICENSE](LICENSE) file for the complete terms and conditions.
 
-- **LiteWing Blockly Application:** Copyright © 2026 Circuit Digest. All rights reserved.
+- **LiteWing Blockly Application:** Copyright (c) 2026 Dharagesh and Circuit Digest. All rights reserved.
 - **Visual Programming Engine:** Built with [Google Blockly](https://developers.google.com/blockly) (Licensed under the Apache License, Version 2.0).

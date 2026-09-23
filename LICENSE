@@ -1,21 +1,21 @@
 LiteWing Blockly Software License Agreement
-Copyright (c) 2026 Circuit Digest. All rights reserved.
+Copyright (c) 2026 Dharagesh and Circuit Digest. All rights reserved.
 
 IMPORTANT: PLEASE READ THIS SOFTWARE LICENSE AGREEMENT ("AGREEMENT") CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING THE LITEWING BLOCKLY SOFTWARE APPLICATION. BY DOWNLOADING, INSTALLING, OR USING THIS SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT.
 
 1. LICENSE GRANT
-Subject to the terms and conditions of this Agreement, Circuit Digest ("Licensor") hereby grants you a personal, non-exclusive, non-transferable, royalty-free, revocable license to download, install, and execute the compiled binary executable of the LiteWing Blockly software ("Software") on computing devices running compatible Windows operating systems, solely for the purpose of visual programming, configuring, and operating LiteWing drones for educational, personal, research, and non-commercial purposes.
+Subject to the terms and conditions of this Agreement, Dharagesh and Circuit Digest ("Licensors") hereby grant you a personal, non-exclusive, non-transferable, royalty-free, revocable license to download, install, and execute the compiled binary executable of the LiteWing Blockly software ("Software") on computing devices running compatible Windows operating systems, solely for the purpose of visual programming, configuring, and operating LiteWing drones for educational, personal, research, and non-commercial purposes.
 
 2. RESTRICTIONS
 This Software is distributed in compiled executable binary form only. You agree that you will not, directly or indirectly:
 (a) Decompile, disassemble, reverse engineer, decrypt, or otherwise attempt to derive or reconstruct the source code or underlying structure, algorithms, or protocols of the Software, except to the extent permitted by mandatory applicable law;
-(b) Sell, rent, lease, sublicense, distribute, assign, host, outsource, or commercially exploit the Software as a standalone commercial product without prior written consent from Circuit Digest;
+(b) Sell, rent, lease, sublicense, distribute, assign, host, outsource, or commercially exploit the Software as a standalone commercial product without prior written consent from the Licensors;
 (c) Modify, adapt, translate, or create derivative works based upon the Software;
 (d) Remove, alter, or obscure any copyright notices, trademarks, or proprietary markings on or within the Software;
 (e) Use the Software for any unauthorized, unsafe, hazardous, or unlawful drone operations.
 
 3. INTELLECTUAL PROPERTY & OWNERSHIP
-The Software, including its graphical interface, user experience, iconography, branding, logos, and underlying proprietary source code, is and remains the intellectual property of Circuit Digest and its licensors. All rights not expressly granted to you in this Agreement are reserved by Circuit Digest.
+The Software, including its graphical interface, user experience, iconography, branding, logos, and underlying proprietary source code, is and remains the intellectual property of Dharagesh and Circuit Digest and their licensors. All rights not expressly granted to you in this Agreement are reserved.
 
 4. THIRD-PARTY OPEN SOURCE NOTICES
 The Software incorporates certain third-party open source components, including Google Blockly (licensed under the Apache License, Version 2.0). Nothing in this Agreement restricts, limits, or supersedes any rights granted to you under the respective third-party licenses for those specific open source components:
@@ -23,7 +23,7 @@ The Software incorporates certain third-party open source components, including 
 
 5. FLIGHT SAFETY & DISCLAIMER OF LIABILITY
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
-OPERATING AN UNMANNED AERIAL VEHICLE (DRONE) CARRIES INHERENT PHYSICAL AND OPERATIONAL RISKS. YOU ASSUME FULL AND EXCLUSIVE RESPONSIBILITY FOR THE SAFE OPERATION OF YOUR DRONE, COMPLIANCE WITH ALL LOCAL AVIATION LAWS AND REGULATIONS, PRE-FLIGHT VERIFICATIONS, AND SUITABLE FLIGHT ENVIRONMENTS. IN NO EVENT SHALL CIRCUIT DIGEST, ITS DIRECTORS, EMPLOYEES, OR AFFILIATES BE LIABLE FOR ANY CLAIM, DAMAGES, PROPERTY LOSS, PHYSICAL INJURY, OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+OPERATING AN UNMANNED AERIAL VEHICLE (DRONE) CARRIES INHERENT PHYSICAL AND OPERATIONAL RISKS. YOU ASSUME FULL AND EXCLUSIVE RESPONSIBILITY FOR THE SAFE OPERATION OF YOUR DRONE, COMPLIANCE WITH ALL LOCAL AVIATION LAWS AND REGULATIONS, PRE-FLIGHT VERIFICATIONS, AND SUITABLE FLIGHT ENVIRONMENTS. IN NO EVENT SHALL THE AUTHORS, CIRCUIT DIGEST, OR AFFILIATES BE LIABLE FOR ANY CLAIM, DAMAGES, PROPERTY LOSS, PHYSICAL INJURY, OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
 
 6. TERMINATION
 This Agreement is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms. Upon termination, you must cease all use of the Software and delete all copies in your possession.
