@@ -1,0 +1,18 @@
+# Binary executables and release bundles (hosted on GitHub Releases)
+*.exe
+*.zip
+*.tar.gz
+*.dmg
+*.AppImage
+
+# OS metadata & editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts
+dist/
+build/
+node_modules/
